@@ -1,3 +1,17 @@
+# Easy Eject for Windows (archived, unfinished)
+
+This repository is an archive of the unfinished Windows port of Easy Eject.
+It is no longer developed. The last builds were the unsigned
+[0.1.0](../../releases/tag/windows-v0.1.0-preview) and
+[0.2.0](../../releases/tag/windows-v0.2.0-preview) previews.
+
+The Windows code is in [`Windows/`](Windows/); start with
+[`Windows/README.md`](Windows/README.md) and [`Windows/PROGRESS.md`](Windows/PROGRESS.md).
+The rest of the tree is the macOS app as it stood when the port branched off;
+the maintained Mac app lives at [rsmith4321/Ejector](https://github.com/rsmith4321/Ejector).
+
+---
+
 # Easy Eject
 
 A native macOS menu bar utility for ejecting camera cards, optional hidden-file cleaning and verified media imports. **One shared codebase, two distribution builds:**
